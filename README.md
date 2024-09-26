@@ -5,7 +5,7 @@ I'm new to Python and needed a simple, first project to do. I hate Hello Worlds 
 This is a dead simple app that is simply meant to help me learn basic Python capabilities.  I am enlisting Claude to help wtih this module as well to serve as a teacher and accelerator.  Hence, everything in here is hard-coded.
 
 ### Purpose
-The purpose of this module is simply to extract a list of the top 2000 nouns and their gender in Spanish from a blog entry I found.  Later I will run statistics on that (from a separate app) to generate some simple statistics.  The output will go into a CSV file.
+The purpose of this module is simply to extract a list of the top 2000 nouns and their gender in Spanish from a blog entry I found. In the next module, I will run statistics on that to generate some simple statistics.  The output will go into a CSV file.
 
 ### Trimming
 The hard-coded site above has specific formatting that needs to be dealt with.  First we need to trim off lines that are not useful to us, some before and some after.
